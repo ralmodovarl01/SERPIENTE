@@ -39,5 +39,6 @@ fun main(args: Array<String>) {
     println("la ${serpiente.getNombre()} a muerto a la edad de ${serpiente.getEdad()} años")
 
 }
+//otra linea
 
 //serpiente.aumentarTamano(serpiente.getColor())
