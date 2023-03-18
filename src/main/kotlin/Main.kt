@@ -30,10 +30,18 @@ fun main(args: Array<String>) {
 
     println("HOla Ramón")
 
+<<<<<<< HEAD
+=======
+    println("Modificacion en el main")
+
+    println("tercera midificacion")
+
+>>>>>>> master
 
     println("\n")
     println("la ${serpiente.getNombre()} a muerto a la edad de ${serpiente.getEdad()} años")
 
 }
+//otra linea
 
 //serpiente.aumentarTamano(serpiente.getColor())
