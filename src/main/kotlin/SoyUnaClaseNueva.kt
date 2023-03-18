@@ -14,6 +14,7 @@ class SoyUnaClaseNueva {
 
     fun hoyEsSabado(){
         this.domingo = "Hoy es domingo"
+        println("HOla")
     }
 
 
